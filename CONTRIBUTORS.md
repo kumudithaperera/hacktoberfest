@@ -2418,6 +2418,11 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
+#### Name: [Kumuditha](https://github.com/kumudithaperera/)
+- Place: Colombo, Sri Lanka
+- Bio: Love to read manga (in english though)
+- Github: [Kumuditha](https://github.com/kumdithaperera/)
+
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
